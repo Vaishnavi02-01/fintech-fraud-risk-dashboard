@@ -1,6 +1,6 @@
 # 🛡️ Fintech Fraud & Expected Loss Executive Command Center
 
-![Dashboard Preview](asset dashboard.png)
+![Dashboard Preview](assets/dashboard_screenshot.png)
 
 ## 📌 Executive Summary
 This project delivers an interactive, executive-grade fintech risk command center built to monitor portfolio exposure, expected loss, and emerging fraud vectors across transaction records[cite: 9]. Designed for a C-suite audience, the dashboard utilizes a sleek dark-mode UI to surface actionable risk intelligence regarding device types and proxy (VPN) usage[cite: 9].
