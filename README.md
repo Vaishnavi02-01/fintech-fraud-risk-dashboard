@@ -1,11 +1,11 @@
 # 🛡️ Fintech Fraud & Expected Loss Executive Command Center
 
-![Dashboard Preview](assets/dashboard_screenshot.png)
+![Dashboard Preview](asset dashboard.png)
 
 ## 📌 Executive Summary
 This project delivers an interactive, executive-grade fintech risk command center built to monitor portfolio exposure, expected loss, and emerging fraud vectors across transaction records[cite: 9]. Designed for a C-suite audience, the dashboard utilizes a sleek dark-mode UI to surface actionable risk intelligence regarding device types and proxy (VPN) usage[cite: 9].
 
-🔗 **[Live Interactive Dashboard on Tableau Public](YOUR_TABLEAU_PUBLIC_URL_HERE)**
+🔗 **[Live Interactive Dashboard on Tableau Public](https://public.tableau.com/views/fraud_analysis/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)**
 
 ---
 
@@ -44,4 +44,4 @@ The dashboard was engineered in Tableau Public following modern enterprise BI st
 ## 📁 Repository Structure
 * `/sql/queries.sql` — Complete SQL scripts for risk tiers, velocity ranking, and device/VPN aggregations.
 * `/data/vpn_risk_summary.csv` — Aggregated dataset used for reporting and Excel baseline validation.
-* `/assets/dashboard_screenshot.png` — Visual preview of the final Tableau command center.
+* `/assets dashboard.png` — Visual preview of the final Tableau command center.
